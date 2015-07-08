@@ -1,5 +1,5 @@
 # VMWareESXiClone
-bash script to clone a VMWare ESXi VM
+shell script to clone a VMWare ESXi VM
 
 PLEASE READ NOTES!!!
 
