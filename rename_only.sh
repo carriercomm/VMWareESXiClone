@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 CURNAME="myVM1"
 NEWNAME="myVM2"
